@@ -1,0 +1,28 @@
+{
+    "nombreApp" : "Proyecto",
+    "rutas" : [
+     
+      
+        {
+            "ruta" : "informatica",
+            "icon" : "computer",
+            "texto": "Licenciatura en Informática"
+        },
+        {
+            "ruta" : "derecho",
+            "icon" : "account_balance",
+            "texto": "Licenciatura en Derecho"
+        },
+        {
+            "ruta" : "psicologia",
+            "icon" : "psychology",
+            "texto": "Licenciatura en Psicologia Industrial"
+        },
+        {
+            "ruta" : "enfermeria",
+            "icon" : "medical_services",
+            "texto": "Licenciatura en Enfermeria"
+        }
+      
+    ]
+}
